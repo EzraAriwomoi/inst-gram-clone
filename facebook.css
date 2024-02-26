@@ -1,0 +1,1061 @@
+.body{
+    background-color: rgb(236, 239, 245);
+    border-color: rgb(233, 233, 233);
+    cursor: pointer;
+    display: block;
+    font-size: 14px;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    height: 716px;
+    line-height: 18px;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    text-align: left;
+    width: 360px;
+}
+.viewport h1{
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18px;
+    margin-block-end: 0px;
+    margin-block-start: 0px;
+    margin-inline-end: 0px;
+    margin-inline-start: 0px;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    text-align: left;
+    width: 0px;
+}
+.page{
+    cursor: pointer;
+    display: block;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    position: relative;
+    height: 715px;
+    font-size: 14px;
+}
+.header-notices{
+    cursor: pointer;
+    display: block;
+    z-index: 13;
+    font-size: 14px;
+}
+.header{
+    background-color: rgb(59, 89, 152);
+    cursor: pointer;
+    display: flex;
+    font-size: 14px;
+    height: 44px;
+    line-height: 18px;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+    text-align: left;
+    z-index: 12;
+    width: 360px;
+}
+.header_center{
+    align-items: center;
+    cursor: pointer;
+    display: flex;
+    flex-grow: 1;
+    flex-shrink: 1;
+    text-align: center;
+    min-width: 0px;
+}
+.fb{
+    border-color: rgba(0, 0, 0, 0);
+    border-style: solid;
+    border-width: 1px;
+    border-image-source: none;
+    cursor: pointer;
+    display: block;
+    height: 21px;
+    margin: -1px -1px -1px -1px;
+    text-align: center;
+    width: 359px;
+    font-size: 14px;
+    text-size-adjust: 100%;
+}
+.fb_img{
+    border-color: rgb(87, 107, 149);
+    background-image: url(https://static.xx.fbcdn.net/rsrc.php/v3/yZ/r/K804LXnHlWj.png);
+    background-position-x: 0px;
+    background-position-y: 0px;
+    color: rgb(87, 107, 149);
+    cursor: pointer;
+    background-size: 103px 68px;
+    display: inline-block;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    height: 21px;
+    line-height: 18px;
+    text-align: center;
+    vertical-align: top;
+    width: 102px;
+}
+.fb_img u{
+    color: rgb(87, 107, 149);
+    cursor: pointer;
+    display: block;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 14px;
+    height: 0px;
+    line-height: 18px;
+    position: absolute;
+    text-align: center;
+    text-decoration-color: rgb(87, 107, 149);
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    user-select: none;
+    width: 0px;
+}
+#graph-search{
+    cursor: pointer;
+    display: block;
+    font-size: 14px;
+    text-align: left;
+    line-height: 18px;
+}
+.top{
+    background-color: rgb(218, 221, 225);
+    cursor: pointer;
+    display: none;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    height: auto;
+    line-height: 18px;
+    padding-left: 0px;
+    padding-right: 0px;
+    position: relative;
+    text-align: left;
+    width: auto;
+    z-index: 6;
+}
+.search_top{
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    background-image: none;
+    background-size: auto;
+    cursor: pointer;
+    display: flex;
+    font-size: 14px;
+    line-height: 18px;
+    margin-top: 1px;
+    padding: 8px 8px 8px 8px;
+    position: relative;
+    text-align: left;
+    z-index: 1;
+    width: auto;
+}
+.searcler{
+    align-items: center;
+    border-radius: 16px;
+    background-color: rgb(233, 235, 238);
+    background-attachment: scroll;
+    border-style: none;
+    border-width: 1;
+    border-color: rgb(0, 0, 0);
+    cursor: pointer;
+    display: flex;
+    flex-basis: auto;
+    flex-grow: 1;
+    flex-shrink: 1;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: left;
+    width: auto;
+}
+.search{
+    background-image: url(https://z-m-static.xx.fbcdn.net/rsrc.php/v3/y7/r/Jf5r4lBpPKl.png);
+    background-position-x: 0px;
+    background-position-y: -103px;
+    background-size: auto;
+    cursor: pointer;
+    font-size: 14px;
+    font-style: italic;
+    height: 16px;
+    line-height: 18px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: left;
+    width: auto;
+}
+.input_search{
+    appearance: none;
+    background-color: rgb(233, 235, 238);
+    background-position-x: 0%;
+    background-position-y: 0%;
+    border-radius: 16px;
+    border-style: none;
+    background-size: auto;
+    border-color: rgb(75, 79, 86);
+    border-width: 0px;
+    color: rgb(75, 79, 86);
+    cursor: text;
+    display: block;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    height: 32px;
+    letter-spacing: normal;
+    line-height: 18px;
+    outline-color: rgb(75, 79, 86);
+    outline-style: none;
+    outline-width: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    padding-left: 6px;
+    padding-right: 28px;
+    text-align: start;
+    text-indent: 0px;
+    text-shadow: none;
+    text-transform: none;
+    word-spacing: 0px;
+}
+.lblsearch{
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    cursor: default;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: left;
+    text-size-adjust: 100%;
+    width: auto;
+}
+.aclear{
+    display: none;
+    background-image: url(https://z-m-static.xx.fbcdn.net/rsrc.php/v3/y7/r/Jf5r4lBpPKl.png);
+    background-position-x: 0px;
+    background-position-y: 0px;
+    color: rgb(130, 130, 130);
+    cursor: pointer;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    height: 30px;
+    line-height: 29px;
+    margin-top: -15px;
+    position: absolute;
+    text-align: center;
+    text-decoration-line: none;
+    text-decoration-color: rgb(130, 130, 130);
+    text-indent: -9999px;
+    top: 50%;
+    width: 30px;
+}
+.autcancelr{
+    display: none;
+    color: rgb(68, 73, 80);
+    cursor: pointer;
+    font-size: 14px;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    line-height: 18px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 12px;
+    text-align: left;
+    text-decoration-color: rgb(68, 73, 80);
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    width: auto;
+}
+.autoid_2{
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    border-top-width: 1px;
+    border-top-color: rgb(218, 221, 225);
+    border-top-style: solid;
+    display: none;
+    font-size: 14px;
+    padding-bottom: 0px;
+    position: relative;
+    text-align: left;
+}
+.root{
+    background-color: rgb(236, 239, 245);
+    border-color: rgb(233, 233, 233);
+    border-width: 1px;
+    border-bottom-style: solid;
+    cursor: pointer;
+    display: block;
+    font-size: 14px;
+    min-height: 671px;
+    line-height: 18px;
+    text-align: left;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.lgm2{
+    cursor: pointer;
+    display: flex;
+    font-size: 14px;
+    height: 524px;
+    line-height: 18px;
+    text-align: left;
+}
+.lgin34{
+    cursor: pointer;
+    display: block;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0%;
+}
+.login_error{
+    display: none;
+    background-attachment: scroll;
+    background-color: rgb(250, 62, 62);
+    background-image: none;
+    background-position-x: 0%;
+    background-position-y: 0%;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    height: 54px;
+    line-height: 18px;
+    padding: 8px 8px 8px 8px;
+    text-align: left;
+    font-size: 14px;
+    width: 344px;
+}
+.lgerror{
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    display: inline;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    height: auto;
+    line-height: 18px;
+    text-align: left;
+    width: auto;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    text-size-adjust: 100%;
+}
+.gnrl{
+    cursor: pointer;
+    display: block;
+    height: 488px;
+    line-height: 18px;
+    margin-bottom: 36px;
+    text-align: left;
+}
+.aclb{
+    background-color: rgb(236, 239, 245);
+    border-color: rgb(216, 223, 234);
+    cursor: pointer;
+    display: block;
+}
+.rrut{
+    display: block;
+    margin: 0 0 0 0;
+    max-width: 416px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    padding-left: 16px;
+    padding-right: 16px;
+    line-height: 18px;
+    width: 328px;
+}
+.txtlog{
+    font-size: 14px;
+    height: 116px;
+    line-height: 18px;
+    display: block;
+    padding-bottom: 12px;
+    padding-left: 38px;
+    padding-right: 38px;
+    padding-top: 38px;
+    text-align: center;
+    width: 252px;
+}
+.imglogin_face{
+    border-color: rgb(0, 0, 0);
+    border-radius: 12px;
+    border-style: none;
+    border-width: 0px;
+    cursor: pointer;
+    display: inline-block;
+    height: 60px;
+    line-height: 18px;
+    margin-bottom: 16px;
+    text-align: center;
+    width: 60px;
+}
+.log_face_txt{
+    color: rgb(144, 148, 156);
+    cursor: pointer;
+    display: block;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    font-size: 16px;
+    height: 40px;
+    margin-top: 12px;
+    line-height: 20px;
+    text-align: center;
+    width: 252px;
+}
+.mobile-login-form{
+    border-color: rgb(0, 0, 0);
+    border-style: none;
+    border-width: 0px;
+    cursor: pointer;
+    display: block;
+    font-size: 14px;
+    height: 135px;
+    line-height: 18px;
+    margin: 0 0 0 0;
+    padding-bottom: 1px;
+    padding-top: 8px;
+    text-align: left;
+    width: 328px;
+}
+#user_info_container,
+#pwd_label_container,
+#otp_retrieve_desc_container{
+    cursor: pointer;
+    display: block;
+    font-size: 14px;
+    text-align: left;
+    width: 328px;
+    line-height: 18px;
+    height: 0px;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+}
+._56bet{
+    position: relative;
+}
+._56bet::before{
+    border-bottom-color: rgba(0, 0, 0, 0.18);
+    border-left-color: rgba(0, 0, 0, 0.11);
+    border-right-color: rgba(0, 0, 0, 0.11);
+    border-top-color: rgba(0, 0, 0, 0.07);
+    border-radius: 4px;
+    border-width: 1px;
+    border-style: solid;
+    bottom: -1px;
+    content: "";
+    cursor: pointer;
+    height: 87px;
+    font-size: 14px;
+    left: -1px;
+    line-height: 18px;
+    position: absolute;
+    right: -1px;
+    text-align: left;
+    top: -1px;
+}
+.bt56{
+    display: none;
+    border-color: rgb(250, 62, 62);
+    border-radius: 4px;
+    border-width: 1px;
+    border-style: solid;
+    bottom: -1px;
+    content: "";
+    cursor: pointer;
+    color: rgb(250, 62, 62);
+    height: 42px;
+    font-size: 14px;
+    left: -1px;
+    line-height: 18px;
+    position: absolute;
+    right: -1px;
+    text-align: left;
+    top: -1px;
+}
+.sectf{
+    background-color: rgb(255, 255, 255);
+    border-radius: 4px;
+    background-origin: padding-box;
+    display: block;
+}
+.email_input_container{
+    border-color: rgba(0, 0, 0, 0.1);
+    border-style: solid;
+    border-top-width: 0px;
+    border-bottom-width: 1px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    cursor: pointer;
+    display: block;
+    font-size: 14px;
+    height: 42px;
+    line-height: 18px;
+    text-align: left;
+}
+.emailphone{
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    border-style: none;
+    border-width: 0px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    color: rgb(0, 0, 0);
+    display: block;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    cursor: text;
+    letter-spacing: normal;
+    line-height: 18px;
+    margin: 0 0 0 0;
+    padding: 12px 12px 12px 12px;
+    text-align: start;
+    text-indent: 0px;
+    width: 304px;
+    position: relative;
+    word-spacing: 0px;
+    text-transform: none;
+}
+.m_login_password{
+    background-color: rgb(245, 246, 247);
+    cursor: pointer;
+    display: block;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    font-size: 14px;
+    height: 44px;
+    line-height: 18px;
+    text-align: left;
+    text-size-adjust: 100%;
+}
+.login_password_cont{
+    cursor: pointer;
+    display: flex;
+    line-height: 18px;
+    height: 44px;
+    width: 258px;
+}
+._4g34{
+    align-items: center;
+    cursor: pointer;
+    display: flex;
+    flex-grow: 1;
+    flex-shrink: 1;
+    min-width: 0px;
+    text-align: left;
+    width: 328px;
+    height: 44px;
+}
+.pass1{
+    border-color: rgba(0, 0, 0, 0);
+    border-style: solid;
+    border-width: 1px;
+    display: block;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0%;
+    font-size: 14px;
+    width: 328px;
+    text-align: left;
+    height: 44px;
+    margin: -1px -1px -1px -1px;
+}
+.loginpass{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    border-width: 0px;
+    border-style: none;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    color: rgb(0, 0, 0);
+    cursor: text;
+    display: block;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 20px;
+    margin: 0 0 0 0;
+    padding: 12px 12px 12px 12px;
+    text-align: start;
+    text-indent: 0px;
+    width: 304px;
+}
+.hide_show{
+    position: relative;
+    align-items: center;
+    cursor: pointer;
+    display: flex;
+    font-size: 14px;
+    height: 44px;
+    line-height: 18px;
+    text-align: left;
+    width: 0px;
+    visibility: hidden;
+}
+.pi9{
+    cursor: pointer;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    font-size: 14px;
+    height: auto;
+    line-height: 18px;
+    padding-top: 13px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+    text-align: left;
+    text-size-adjust: 100%;
+    width: auto;
+}
+.hs{
+    color: rgb(53, 120, 229);
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    height: auto;
+    line-height: 18px;
+    padding: 4px 4px 4px 4px;
+    text-decoration-line: none;
+    width: auto;
+}
+.hide{
+    color: rgb(53, 120, 229);
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 15px;
+    text-align: left;
+}
+.show{
+    color: rgb(53, 120, 229);
+    cursor: pointer;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: left;
+    text-size-adjust: 100%;
+}
+.login_sector{
+    cursor: pointer;
+    display: block;
+    line-height: 18px;
+    text-align: center;
+    padding-top: 12px;
+}
+.log{
+    cursor: pointer;
+    display: block;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    text-size-adjust: 100%;
+}
+.btnlogin{
+    align-items: flex-start;
+    appearance: none;
+    background-clip: border-box;
+    background-color: rgba(0, 0, 0, 0);
+    background-position-x: 0%;
+    background-position-y: 0%;
+    border-radius: 3px;
+    border-style: none;
+    border-color: rgb(255, 255, 255);
+    border-width: 0px;
+    display: block;
+    color: rgb(255, 255, 255);
+    cursor: default;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    font-size: 14px;
+    font-optical-sizing: auto;
+    font-kerning: auto;
+    font-stretch: 100%;
+    font-weight: 700;
+    height: 36px;
+    letter-spacing: normal;
+    line-height: 36px;
+    margin: 0 0 0 0;
+    padding-bottom: 0px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 0px;
+    position: relative;
+    text-align: center;
+    text-indent: 0px;
+    text-rendering: auto;
+    text-shadow: rgba(0, 0, 0, 0.25) 0px -1px 0px;
+    text-transform: none;
+    z-index: 0;
+    word-spacing: 0px;
+    width: 328px;
+}
+.btnlogin::before{
+    background-color: rgb(24, 119, 242);
+    border-radius: 4px;
+    bottom: -1px;
+    color: rgb(255, 255, 255);
+    content: "";
+    cursor: default;
+    display: block;
+    font-size: 14px;
+    font-weight: 700;
+    height: 38px;
+    left: -1px;
+    font-style: normal;
+    line-height: 36px;
+    pointer-events: none;
+    position: absolute;
+    right: -1px;
+    text-align: center;
+    text-indent: 0px;
+    text-shadow: rgba(0, 0, 0, 0.25) 0px -1px 0px;
+    text-transform: none;
+    top: -1px;
+    width: 330px;
+    word-spacing: 0px;
+    z-index: -1;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+.login{
+    color: rgb(255, 255, 255);
+    cursor: default;
+    display: inline-block;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    height: 24px;
+    text-align: center;
+    text-rendering: auto;
+    text-shadow: rgba(0, 0, 0, 0.25) 0px -1px 0px;
+    width: 42px;
+    word-spacing: 0px;
+}
+.btnlogin::after{
+    border-color: rgba(0, 0, 0, 0.26);
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 1;
+    border-width: 0px;
+    bottom: -1px;
+    box-shadow: rgba(0, 0, 0, 0.14) 0px 1px 0px 0px, rgba(0, 0, 0, 0.03) 0px -1px 1px 0px inset;
+    color: rgb(255, 255, 255);
+    content: "";
+    cursor: default;
+    font-size: 14px;
+    font-weight: 700;
+    height: 38px;
+    left: -1px;
+    position: absolute;
+    line-height: 36px;
+    right: -1px;
+    text-align: center;
+    text-indent: 0px;
+    text-rendering: auto;
+    text-shadow: rgba(0, 0, 0, 0.25) 0px -1px 0px;
+    top: -1px;
+    word-spacing: 0px;
+    z-index: 1;
+}
+.oauth_login_btn_cont{
+    cursor: pointer;
+    font-size: 14px;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    height: auto;
+    line-height: 18px;
+    padding-top: 12px;
+    text-align: center;
+    text-size-adjust: 100%;
+    width: auto;
+}
+.oauth_login_desc_cont{
+    cursor: pointer;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    font-size: 14px;
+    height: auto;
+    line-height: 18px;
+    padding-bottom: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 12px;
+    text-align: center;
+    width: auto;
+}
+.otp_button_elem_container{
+    cursor: pointer;
+    display: block;
+    font-size: 14px;
+    height: 0px;
+    line-height: 18px;
+    text-align: center;
+    width: 328px;
+}
+._xo8{
+    cursor: pointer;
+    display: block;
+    font-size: 14px;
+    height: 0px;
+    line-height: 18px;
+    margin-bottom: -15px;
+    margin-top: 15px;
+    text-align: left;
+    text-size-adjust: 100%;
+    width: 328px;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0)
+}
+.forget_sec{
+    cursor: pointer;
+    display: block;
+    margin-bottom: -36px;
+    padding-top: 12px;
+    text-align: left;
+}
+.forgpass{
+    display: block;
+    line-height: 18px;
+    text-align: center;
+    width: 328px;
+    text-size-adjust: 100%;
+}
+.forgotten{
+    color: rgb(33, 111, 219);
+    cursor: pointer;
+    display: inline;
+    font-family: Roboto-Regular, Helvetica, "sans-serif";
+    font-size: 14px;
+    height: auto;
+    line-height: 16px;
+    text-align: center;
+    text-decoration-color: rgb(33, 111, 219);
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    width: auto;
+}
+.pie{
+    display: block;
+    height: 130px;
+    padding-top: 12px;
+    text-align: center;
+    text-size-adjust: 100%;
+    line-height: 18px;
+}
+.create_acc{
+    display: block;
+    line-height: 18px;
+    height: 18px;
+    margin-top: 10px;
+    padding: 4px 4px 4px 4px;
+    text-align: center;
+    width: 320px;
+}
+.creat{
+    color: rgb(87, 107, 149);
+    cursor: pointer;
+    display: inline;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    font-size: 14px;
+    height: auto;
+    line-height: 18px;
+    text-align: center;
+    text-decoration-color: rgb(87, 107, 149);
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    width: auto;
+}
+.not_now{
+    display: block;
+    height: 18px;
+    margin-top: 10px;
+    text-align: center;
+    width: 328px;
+}
+.nt{
+    color: rgb(87, 107, 149);
+    display: inline;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    font-size: 14px;
+    height: auto;
+    line-height: 18px;
+    text-align: center;
+    text-decoration-color: rgb(87, 107, 149);
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    width: auto;
+}
+.other-links{
+    display: block;
+    font-size: 14px;
+    line-height: 18px;
+    padding-bottom: 36px;
+    padding-top: 12px;
+    text-align: center;
+    text-size-adjust: 100%;
+    width: 328px;
+}
+.ul_hlp{
+    display: block;
+    margin-block-end: 0px;
+    margin-block-start: 0px;
+    margin-inline-end: 0px;
+    margin-inline-start: 0px;
+    margin: 0 0 0 0;
+    padding-inline-start: 0px;
+    padding: 0 0 0 0;
+    text-align: center;
+    width: 328px;
+    list-style-position: outside;
+    list-style-type: none;
+}
+.help_4{
+    color: rgb(75, 79, 86);
+    display: inline;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    font-size: 12px;
+    height: auto;
+    line-height: 16px;
+}
+.help_centre{
+    color: rgb(117, 150, 200);
+    display: inline;
+    font-family: Roboto-Regular, Helvetica, "sans-serif";
+    font-size: 14px;
+    height: auto;
+    line-height: 16px;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    width: auto;
+}
+.m_login_footer{
+    display: block;
+    font-size: 14px;
+    height: 104px;
+    line-height: 18px;
+    padding: 8px 8px 8px 8px;
+    text-align: left;
+    width: 344px;
+}
+.lang{
+    display: block;
+    text-align: center;
+    text-size-adjust: 100%;
+    line-height: 18px;
+}
+.language_selector{
+    display: block;
+    font-size: 14px;
+    height: 74px;
+    line-height: 18px;
+    padding: 6px 6px 6px 6px;
+    text-align: center;
+    width: 332px;
+}
+._7om2{
+    display: flex;
+    font-size: 14px;
+    height: 74px;
+    line-height: 18px;
+    text-align: center;
+}
+._4g34{
+    display: block;
+    flex-basis: 0%;
+    flex-grow: 1;
+    flex-shrink: 1;
+    font-size: 14px;
+    height: 74px;
+    line-height: 18px;
+    min-width: 0px;
+    text-align: center;
+    width: 166px;
+}
+.eng{
+    color: rgb(144, 148, 156);
+    display: inline;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    height: auto;
+    line-height: 16px;
+    text-align: center;
+    width: auto;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0)
+}
+._3ztc{
+    display: block;
+    width: 166px;
+    text-align: center;
+    text-size-adjust: 100%;
+    height: 18px;
+    line-height: 18px;
+}
+._52jc{
+    display: inline;
+    line-height: 16px;
+    height: auto;
+    width: auto;
+}
+._52jc a{
+    color: rgb(87, 107, 149);
+    display: inline;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    font-size: 12px;
+    height: auto;
+    line-height: 16px;
+    text-align: center;
+    text-decoration-color: rgb(87, 107, 149);
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    width: auto;
+}
+.more_languages{
+    border-color: rgb(59, 89, 152);
+    border-radius: 3px;
+    border-style: solid;
+    border-width: 1px;
+    color: rgb(53, 120, 229);
+    cursor: pointer;
+    display: block;font-size: 18px;
+    height: 18px;
+    line-height: 17px;
+    margin-bottom: 0px;
+    margin-left: 73px;
+    margin-right: 73px;
+    margin-top: 0px;
+    text-align: center;
+    width: 18px;
+}
+.imgplus{
+    background-image: url(https://z-m-static.xx.fbcdn.net/rsrc.php/v3/yc/r/tjuCtNBjbJe.png);
+    background-position-x: 0px;
+    background-position-y: -50px;
+    border-color: rgb(53, 120, 229);
+    border-style: none;
+    border-width: 0px;
+    border-image-repeat: stretch;
+    border-image-slice: 100%;
+    border-image-source: none;
+    color: rgb(53, 120, 229);
+    display: inline-block;
+    font-size: 18px;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    font-style: italic;
+    height: 12px;
+    line-height: 17px;
+    margin-bottom: 3px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 3px;
+    text-align: center;
+    width: 12px;
+}
+.meta{
+    display: block;
+    font-size: 14px;
+    height: 18px;
+    line-height: 18px;
+    text-align: center;
+    width: 344px;
+}
+.meta_yr_copy{
+    color: rgb(128, 128, 128);
+    display: inline;
+    font-family: Roboto, "Droid Sans", Helvetica, sans-serif;
+    font-size: 12px;
+    height: auto;
+    line-height: 15px;
+    text-size-adjust: 100%;
+    width: auto;
+}
